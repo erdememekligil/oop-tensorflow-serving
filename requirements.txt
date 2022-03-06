@@ -1,0 +1,9 @@
+tqdm
+numpy
+scikit-learn
+pillow
+tensorflow==2.8.0
+tensorflow-addons==0.16.1
+tensorflow-serving-api==2.8.0
+requests
+grpcio
