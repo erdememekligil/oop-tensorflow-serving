@@ -1,5 +1,9 @@
 # Object Oriented Model Training and Tensorflow Serving
-An object oriented (OOP) approach to train Tensorflow models and serve them using Tensorflow Serving.
+An object oriented (OOP) approach to train Tensorflow models and serve them using Tensorflow Serving. Check out the Medium posts about this repository: 
+* [An Object Oriented Approach To Train an Image Classifier with Tensorflow](https://medium.com/@erdememekligil/an-object-oriented-approach-to-training-an-image-classifier-with-tensorflow-3bcaa7a7864e)
+* [Serving an Image Classification Model with Tensorflow Serving](https://medium.com/@erdememekligil/c4657584d73d)
+
+![](object-oriented-tensorflow.png)
 
 ## Why bother with OOP?
 - OOP is good (in general).
